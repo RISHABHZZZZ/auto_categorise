@@ -1,0 +1,1464 @@
+{
+  "version": "2025-08-18",
+  "categories": [
+    {
+      "name": "MOA, AOA & Incorporation Certificate",
+      "slug": "dev_moa_aoa_incorp",
+      "entity_type": "developer_entity",
+      "org_types": [
+        "company"
+      ],
+      "state": null,
+      "keywords": [
+        "memorandum of association",
+        "articles of association",
+        "moa & aoa",
+        "aoa",
+        "moa",
+        "certificate of incorporation",
+        "incorporation certificate",
+        "coi",
+        "cin",
+        "roc",
+        "ministry of corporate affairs",
+        "mca",
+        "inc-",
+        "spice+",
+        "incorporated under companies act"
+      ],
+      "synonyms": [
+        "MOA",
+        "AOA",
+        "COI",
+        "Company Incorporation"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "LLP Agreement & Certificate of Incorporation",
+      "slug": "dev_llp_agreement_incorp",
+      "entity_type": "developer_entity",
+      "org_types": [
+        "llp"
+      ],
+      "state": null,
+      "keywords": [
+        "llp agreement",
+        "limited liability partnership",
+        "certificate of incorporation",
+        "coi",
+        "llpin",
+        "form fillip",
+        "llp incorporation",
+        "llp incorporation certificate",
+        "registered with registrar of companies"
+      ],
+      "synonyms": [
+        "LLP Agreement",
+        "LLPIN",
+        "LLP COI"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Partnership Deed",
+      "slug": "dev_partnership_deed",
+      "entity_type": "developer_entity",
+      "org_types": [
+        "partnership"
+      ],
+      "state": null,
+      "keywords": [
+        "partnership deed",
+        "deed of partnership",
+        "partnership firm",
+        "partners share",
+        "profit sharing ratio",
+        "registered with registrar of firms",
+        "partnership registration"
+      ],
+      "synonyms": [
+        "Deed of Partnership",
+        "Partnership Registration"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Firm Registration Certificate",
+      "slug": "dev_firm_registration_certificate",
+      "entity_type": "developer_entity",
+      "org_types": [
+        "partnership"
+      ],
+      "state": null,
+      "keywords": [
+        "firm registration certificate",
+        "registration of firms",
+        "certificate of registration of firm",
+        "shops and establishments"
+      ],
+      "synonyms": [
+        "Firm Regn. Certificate",
+        "RoF Certificate"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "GST & PAN",
+      "slug": "dev_gst_pan",
+      "entity_type": "developer_entity",
+      "org_types": [
+        "company",
+        "partnership",
+        "llp"
+      ],
+      "state": null,
+      "keywords": [
+        "gst",
+        "gst certificate",
+        "gst registration",
+        "gstin",
+        "pan",
+        "permanent account number",
+        "income tax department"
+      ],
+      "synonyms": [
+        "GSTIN",
+        "PAN Card",
+        "GST Registration Certificate"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "TAN",
+      "slug": "dev_tan",
+      "entity_type": "developer_entity",
+      "org_types": [
+        "company",
+        "partnership",
+        "llp"
+      ],
+      "state": null,
+      "keywords": [
+        "tan",
+        "tax deduction and collection account number",
+        "tan allotment",
+        "tds"
+      ],
+      "synonyms": [
+        "TAN Allotment Letter",
+        "TAN Number"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "MSME Certificate",
+      "slug": "dev_msme_certificate",
+      "entity_type": "developer_entity",
+      "org_types": [
+        "company",
+        "partnership",
+        "llp"
+      ],
+      "state": null,
+      "keywords": [
+        "msme",
+        "udyam registration",
+        "udyam certificate",
+        "udyam registration certificate",
+        "udyog aadhaar",
+        "uamy",
+        "uac"
+      ],
+      "synonyms": [
+        "Udyam Cert",
+        "MSME Udyam",
+        "Udyog Aadhaar"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "LEI Certificate",
+      "slug": "dev_lei_certificate",
+      "entity_type": "developer_entity",
+      "org_types": [
+        "company",
+        "partnership",
+        "llp"
+      ],
+      "state": null,
+      "keywords": [
+        "lei",
+        "legal entity identifier",
+        "leiroc",
+        "leil",
+        "ccil",
+        "lei code",
+        "gleif"
+      ],
+      "synonyms": [
+        "LEI Code",
+        "LEI Certificate",
+        "Legal Entity Identifier"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Financial Statements for last 3 Years",
+      "slug": "dev_financials_3y",
+      "entity_type": "developer_entity",
+      "org_types": [
+        "company",
+        "partnership",
+        "llp"
+      ],
+      "state": null,
+      "keywords": [
+        "balance sheet",
+        "profit and loss",
+        "p&l",
+        "income statement",
+        "cash flow",
+        "notes to accounts",
+        "auditor report",
+        "audited financial statements",
+        "schedule",
+        "financial year",
+        "fy"
+      ],
+      "synonyms": [
+        "Annual Financial Statements",
+        "Audited FS"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "ITRs for Last 3 Years with computation of income",
+      "slug": "dev_itrs_3y_with_computation",
+      "entity_type": "developer_entity",
+      "org_types": [
+        "company",
+        "partnership",
+        "llp"
+      ],
+      "state": null,
+      "keywords": [
+        "income tax return",
+        "itr",
+        "itr-v",
+        "acknowledgement",
+        "computation of income",
+        "statement of computation",
+        "assessment year",
+        "ay",
+        "form itr-3",
+        "form itr-5",
+        "form itr-6"
+      ],
+      "synonyms": [
+        "ITR Acknowledgement",
+        "Computation of Income"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Sanction letters and SOA's of all running loans",
+      "slug": "dev_sanction_letters_soa_running_loans",
+      "entity_type": "developer_entity",
+      "org_types": [
+        "company",
+        "partnership",
+        "llp"
+      ],
+      "state": null,
+      "keywords": [
+        "sanction letter",
+        "loan sanction",
+        "term loan sanction",
+        "overdraft sanction",
+        "cash credit sanction",
+        "cc limit",
+        "od limit",
+        "statement of account",
+        "soa",
+        "running loan",
+        "repayment schedule"
+      ],
+      "synonyms": [
+        "Loan Sanction Letter",
+        "SOA"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "CIBIL Report",
+      "slug": "dev_cibil_report",
+      "entity_type": "developer_entity",
+      "org_types": [
+        "company",
+        "partnership",
+        "llp"
+      ],
+      "state": null,
+      "keywords": [
+        "cibil",
+        "credit report",
+        "credit score",
+        "transunion cibil"
+      ],
+      "synonyms": [
+        "CIBIL Report"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Bank statement of the entity",
+      "slug": "dev_bank_statement_of_entity",
+      "entity_type": "developer_entity",
+      "org_types": [
+        "company",
+        "partnership",
+        "llp"
+      ],
+      "state": null,
+      "keywords": [
+        "bank statement",
+        "account statement",
+        "current account",
+        "transaction summary",
+        "neft",
+        "rtgs",
+        "imps",
+        "upi"
+      ],
+      "synonyms": [
+        "Entity Bank Statement",
+        "Account Statement"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "MOA, AOA & Incorporation Certificate",
+      "slug": "grp_moa_aoa_incorp",
+      "entity_type": "group_entity",
+      "org_types": [
+        "company"
+      ],
+      "state": null,
+      "keywords": [
+        "memorandum of association",
+        "articles of association",
+        "moa & aoa",
+        "aoa",
+        "moa",
+        "certificate of incorporation",
+        "incorporation certificate",
+        "coi",
+        "cin",
+        "roc",
+        "ministry of corporate affairs",
+        "mca",
+        "inc-",
+        "spice+",
+        "incorporated under companies act"
+      ],
+      "synonyms": [
+        "MOA",
+        "AOA",
+        "COI",
+        "Company Incorporation"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "LLP Agreement & Certificate of Incorporation",
+      "slug": "grp_llp_agreement_incorp",
+      "entity_type": "group_entity",
+      "org_types": [
+        "llp"
+      ],
+      "state": null,
+      "keywords": [
+        "llp agreement",
+        "limited liability partnership",
+        "certificate of incorporation",
+        "coi",
+        "llpin",
+        "form fillip",
+        "llp incorporation",
+        "llp incorporation certificate",
+        "registered with registrar of companies"
+      ],
+      "synonyms": [
+        "LLP Agreement",
+        "LLPIN",
+        "LLP COI"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Partnership Deed",
+      "slug": "grp_partnership_deed",
+      "entity_type": "group_entity",
+      "org_types": [
+        "partnership"
+      ],
+      "state": null,
+      "keywords": [
+        "partnership deed",
+        "deed of partnership",
+        "partnership firm",
+        "partners share",
+        "profit sharing ratio",
+        "registered with registrar of firms",
+        "partnership registration"
+      ],
+      "synonyms": [
+        "Deed of Partnership",
+        "Partnership Registration"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Firm Registration Certificate",
+      "slug": "grp_firm_registration_certificate",
+      "entity_type": "group_entity",
+      "org_types": [
+        "partnership"
+      ],
+      "state": null,
+      "keywords": [
+        "firm registration certificate",
+        "registration of firms",
+        "certificate of registration of firm",
+        "shops and establishments"
+      ],
+      "synonyms": [
+        "Firm Regn. Certificate",
+        "RoF Certificate"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "GST & PAN",
+      "slug": "grp_gst_pan",
+      "entity_type": "group_entity",
+      "org_types": [
+        "company",
+        "partnership",
+        "llp"
+      ],
+      "state": null,
+      "keywords": [
+        "gst",
+        "gst certificate",
+        "gst registration",
+        "gstin",
+        "pan",
+        "permanent account number",
+        "income tax department"
+      ],
+      "synonyms": [
+        "GSTIN",
+        "PAN Card",
+        "GST Registration Certificate"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Financial Statements for last 3 Years",
+      "slug": "grp_financials_3y",
+      "entity_type": "group_entity",
+      "org_types": [
+        "company",
+        "partnership",
+        "llp"
+      ],
+      "state": null,
+      "keywords": [
+        "balance sheet",
+        "profit and loss",
+        "p&l",
+        "income statement",
+        "cash flow",
+        "notes to accounts",
+        "auditor report",
+        "audited financial statements",
+        "schedule",
+        "financial year",
+        "fy"
+      ],
+      "synonyms": [
+        "Annual Financial Statements",
+        "Audited FS"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "ITRs for Last 3 Years with computation of income",
+      "slug": "grp_itrs_3y_with_computation",
+      "entity_type": "group_entity",
+      "org_types": [
+        "company",
+        "partnership",
+        "llp"
+      ],
+      "state": null,
+      "keywords": [
+        "income tax return",
+        "itr",
+        "itr-v",
+        "acknowledgement",
+        "computation of income",
+        "statement of computation",
+        "assessment year",
+        "ay",
+        "form itr-3",
+        "form itr-5",
+        "form itr-6"
+      ],
+      "synonyms": [
+        "ITR Acknowledgement",
+        "Computation of Income"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "PAN & Aadhaar",
+      "slug": "directors_pan_aadhaar",
+      "entity_type": "directors_partners",
+      "org_types": [],
+      "state": null,
+      "keywords": [
+        "pan",
+        "permanent account number",
+        "aadhaar",
+        "aadhar",
+        "uidai",
+        "id proof"
+      ],
+      "synonyms": [
+        "PAN Card",
+        "Aadhaar Card"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Last 3 years ITRs with computation",
+      "slug": "directors_itrs_3y_with_computation",
+      "entity_type": "directors_partners",
+      "org_types": [],
+      "state": null,
+      "keywords": [
+        "income tax return",
+        "itr",
+        "itr-v",
+        "acknowledgement",
+        "computation of income",
+        "statement of computation",
+        "assessment year",
+        "ay",
+        "form itr-3",
+        "form itr-5",
+        "form itr-6"
+      ],
+      "synonyms": [
+        "Individual ITR",
+        "Personal ITR"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Net worth certificates",
+      "slug": "directors_networth_certificates",
+      "entity_type": "directors_partners",
+      "org_types": [],
+      "state": null,
+      "keywords": [
+        "net worth certificate",
+        "networth certificate",
+        "chartered accountant certificate",
+        "ca certificate",
+        "assets and liabilities"
+      ],
+      "synonyms": [
+        "Net Worth CA Certificate"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Last 1 year Bank statement of each promoter",
+      "slug": "directors_bank_statement_1y_each_promoter",
+      "entity_type": "directors_partners",
+      "org_types": [],
+      "state": null,
+      "keywords": [
+        "bank statement",
+        "savings account",
+        "transaction history",
+        "statement period"
+      ],
+      "synonyms": [
+        "Promoter Bank Statement"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "CIBIL Report",
+      "slug": "directors_cibil_report",
+      "entity_type": "directors_partners",
+      "org_types": [],
+      "state": null,
+      "keywords": [
+        "cibil",
+        "credit report",
+        "credit score",
+        "transunion cibil"
+      ],
+      "synonyms": [
+        "Individual CIBIL Report"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "DAGPA",
+      "slug": "land_telangana_dagpa",
+      "entity_type": "project_land_documents",
+      "org_types": [],
+      "state": "Telangana",
+      "keywords": [
+        "development agreement cum general power of attorney",
+        "dagpa",
+        "dgpa",
+        "da-gpa"
+      ],
+      "synonyms": [
+        "Development Agreement-cum-GPA"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Supplementary Agreement",
+      "slug": "land_telangana_supplementary_agreement",
+      "entity_type": "project_land_documents",
+      "org_types": [],
+      "state": "Telangana",
+      "keywords": [
+        "supplementary agreement",
+        "addendum",
+        "amendment"
+      ],
+      "synonyms": [
+        "Supplement Agreement"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Sale Deeds (if own land in the project)",
+      "slug": "land_telangana_sale_deeds",
+      "entity_type": "project_land_documents",
+      "org_types": [],
+      "state": "Telangana",
+      "keywords": [
+        "sale deed",
+        "conveyance deed",
+        "absolute sale deed",
+        "registered sale deed"
+      ],
+      "synonyms": [
+        "Sale Deed"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "TDR Agreements and Certificates",
+      "slug": "land_telangana_tdr_agreements_certificates",
+      "entity_type": "project_land_documents",
+      "org_types": [],
+      "state": "Telangana",
+      "keywords": [
+        "tdr",
+        "transferable development rights",
+        "tdr certificate",
+        "tdr agreement"
+      ],
+      "synonyms": [
+        "TDR"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "NALA Conversion Orders",
+      "slug": "land_telangana_nala_conversion_orders",
+      "entity_type": "project_land_documents",
+      "org_types": [],
+      "state": "Telangana",
+      "keywords": [
+        "nala conversion",
+        "non-agricultural land assessment",
+        "nala order"
+      ],
+      "synonyms": [
+        "NALA Order"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Land Use Certificate",
+      "slug": "land_telangana_land_use_certificate",
+      "entity_type": "project_land_documents",
+      "org_types": [],
+      "state": "Telangana",
+      "keywords": [
+        "land use certificate",
+        "land use permission",
+        "lrs"
+      ],
+      "synonyms": [
+        "Land Use Certificate"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "HMDA Mortgage Deeds",
+      "slug": "land_telangana_hmda_mortgage_deeds",
+      "entity_type": "project_land_documents",
+      "org_types": [],
+      "state": "Telangana",
+      "keywords": [
+        "hmda mortgage deed",
+        "mortgage deed",
+        "hmda"
+      ],
+      "synonyms": [
+        "HMDA Mortgage"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "JDA",
+      "slug": "land_karnataka_jda",
+      "entity_type": "project_land_documents",
+      "org_types": [],
+      "state": "Karnataka",
+      "keywords": [
+        "joint development agreement",
+        "jda"
+      ],
+      "synonyms": [
+        "JDA"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "GPA",
+      "slug": "land_karnataka_gpa",
+      "entity_type": "project_land_documents",
+      "org_types": [],
+      "state": "Karnataka",
+      "keywords": [
+        "general power of attorney",
+        "gpa",
+        "poa"
+      ],
+      "synonyms": [
+        "GPA"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Supplementary Agreement (if done)",
+      "slug": "land_karnataka_supplementary_agreement",
+      "entity_type": "project_land_documents",
+      "org_types": [],
+      "state": "Karnataka",
+      "keywords": [
+        "supplementary agreement",
+        "addendum",
+        "amendment"
+      ],
+      "synonyms": [
+        "Supplement Agreement"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Sale Deeds (if own land in the project)",
+      "slug": "land_karnataka_sale_deeds",
+      "entity_type": "project_land_documents",
+      "org_types": [],
+      "state": "Karnataka",
+      "keywords": [
+        "sale deed",
+        "conveyance deed",
+        "absolute sale deed",
+        "registered sale deed"
+      ],
+      "synonyms": [
+        "Sale Deed"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "TDR Agreements and Certificates (if any)",
+      "slug": "land_karnataka_tdr_agreements_certificates",
+      "entity_type": "project_land_documents",
+      "org_types": [],
+      "state": "Karnataka",
+      "keywords": [
+        "tdr",
+        "transferable development rights",
+        "tdr certificate",
+        "tdr agreement"
+      ],
+      "synonyms": [
+        "TDR"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Airport Authority",
+      "slug": "approvals_telangana_airport_authority",
+      "entity_type": "project_approvals_documents",
+      "org_types": [],
+      "state": "Telangana",
+      "keywords": [
+        "airport authority of india",
+        "aai",
+        "obstacle clearance",
+        "noc"
+      ],
+      "synonyms": [
+        "AAI NOC"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Environment Clearance",
+      "slug": "approvals_telangana_environment_clearance",
+      "entity_type": "project_approvals_documents",
+      "org_types": [],
+      "state": "Telangana",
+      "keywords": [
+        "environment clearance",
+        "ec letter",
+        "moef&cc",
+        "seiaa"
+      ],
+      "synonyms": [
+        "Environmental Clearance",
+        "EC"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Provisional Fire NOC",
+      "slug": "approvals_telangana_provisional_fire_noc",
+      "entity_type": "project_approvals_documents",
+      "org_types": [],
+      "state": "Telangana",
+      "keywords": [
+        "fire noc",
+        "provisional fire noc",
+        "fire department"
+      ],
+      "synonyms": [
+        "Fire NOC"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "HMDA DC Letter",
+      "slug": "approvals_telangana_hmda_dc_letter",
+      "entity_type": "project_approvals_documents",
+      "org_types": [],
+      "state": "Telangana",
+      "keywords": [
+        "hmda dc letter",
+        "development control",
+        "dc letter"
+      ],
+      "synonyms": [
+        "HMDA DC Letter"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Approved Project Plan",
+      "slug": "approvals_telangana_approved_project_plan",
+      "entity_type": "project_approvals_documents",
+      "org_types": [],
+      "state": "Telangana",
+      "keywords": [
+        "approved project plan",
+        "sanctioned plan",
+        "layout plan",
+        "building plan"
+      ],
+      "synonyms": [
+        "Approved Plan"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Building Permit Order",
+      "slug": "approvals_telangana_building_permit_order",
+      "entity_type": "project_approvals_documents",
+      "org_types": [],
+      "state": "Telangana",
+      "keywords": [
+        "building permit order",
+        "building permit",
+        "building permission"
+      ],
+      "synonyms": [
+        "Building Permit"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "RERA Certificate",
+      "slug": "approvals_telangana_rera_certificate",
+      "entity_type": "project_approvals_documents",
+      "org_types": [],
+      "state": "Telangana",
+      "keywords": [
+        "rera certificate",
+        "rera registration",
+        "rera number"
+      ],
+      "synonyms": [
+        "RERA Registration Certificate"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Panchayat Building Permission (when HMDA is not applicable)",
+      "slug": "approvals_telangana_panchayat_building_permission",
+      "entity_type": "project_approvals_documents",
+      "org_types": [],
+      "state": "Telangana",
+      "keywords": [
+        "panchayat building permission",
+        "building permission",
+        "gram panchayat"
+      ],
+      "synonyms": [
+        "Panchayat Approval"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Permission for Water Supply",
+      "slug": "approvals_telangana_permission_for_water_supply",
+      "entity_type": "project_approvals_documents",
+      "org_types": [],
+      "state": "Telangana",
+      "keywords": [
+        "permission for water supply",
+        "water connection permission",
+        "water supply noc"
+      ],
+      "synonyms": [
+        "Water Supply Permission"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Pollution NOC",
+      "slug": "approvals_telangana_pollution_noc",
+      "entity_type": "project_approvals_documents",
+      "org_types": [],
+      "state": "Telangana",
+      "keywords": [
+        "pollution noc",
+        "ts pollution control board",
+        "tspcb",
+        "consent to establish",
+        "cte",
+        "consent to operate",
+        "cto"
+      ],
+      "synonyms": [
+        "Pollution Control NOC"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Any other Approval",
+      "slug": "approvals_telangana_any_other_approval",
+      "entity_type": "project_approvals_documents",
+      "org_types": [],
+      "state": "Telangana",
+      "keywords": [
+        "approval",
+        "permission",
+        "authority approval",
+        "competent authority"
+      ],
+      "synonyms": [
+        "Other Approval"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Approved Project Plan",
+      "slug": "approvals_karnataka_approved_project_plan",
+      "entity_type": "project_approvals_documents",
+      "org_types": [],
+      "state": "Karnataka",
+      "keywords": [
+        "approved project plan",
+        "sanctioned plan",
+        "layout plan",
+        "building plan"
+      ],
+      "synonyms": [
+        "Approved Plan"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Building Permit Order",
+      "slug": "approvals_karnataka_building_permit_order",
+      "entity_type": "project_approvals_documents",
+      "org_types": [],
+      "state": "Karnataka",
+      "keywords": [
+        "building permit order",
+        "building permit",
+        "building permission"
+      ],
+      "synonyms": [
+        "Building Permit"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Commencement Letter",
+      "slug": "approvals_karnataka_commencement_letter",
+      "entity_type": "project_approvals_documents",
+      "org_types": [],
+      "state": "Karnataka",
+      "keywords": [
+        "commencement letter",
+        "commencement certificate",
+        "commencement order"
+      ],
+      "synonyms": [
+        "Commencement Certificate"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Permission for Water Supply",
+      "slug": "approvals_karnataka_permission_for_water_supply",
+      "entity_type": "project_approvals_documents",
+      "org_types": [],
+      "state": "Karnataka",
+      "keywords": [
+        "permission for water supply",
+        "water connection permission",
+        "water supply noc"
+      ],
+      "synonyms": [
+        "Water Supply Permission"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Pollution NOC",
+      "slug": "approvals_karnataka_pollution_noc",
+      "entity_type": "project_approvals_documents",
+      "org_types": [],
+      "state": "Karnataka",
+      "keywords": [
+        "pollution noc",
+        "kspcb",
+        "karnataka state pollution control board",
+        "consent to establish",
+        "cte",
+        "consent to operate",
+        "cto"
+      ],
+      "synonyms": [
+        "Pollution Control NOC"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Environment Clearance",
+      "slug": "approvals_karnataka_environment_clearance",
+      "entity_type": "project_approvals_documents",
+      "org_types": [],
+      "state": "Karnataka",
+      "keywords": [
+        "environment clearance",
+        "ec letter",
+        "moef&cc",
+        "seiaa"
+      ],
+      "synonyms": [
+        "Environmental Clearance",
+        "EC"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Provisional Fire NOC",
+      "slug": "approvals_karnataka_provisional_fire_noc",
+      "entity_type": "project_approvals_documents",
+      "org_types": [],
+      "state": "Karnataka",
+      "keywords": [
+        "fire noc",
+        "provisional fire noc",
+        "fire department"
+      ],
+      "synonyms": [
+        "Fire NOC"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Airport Authority",
+      "slug": "approvals_karnataka_airport_authority",
+      "entity_type": "project_approvals_documents",
+      "org_types": [],
+      "state": "Karnataka",
+      "keywords": [
+        "airport authority of india",
+        "aai",
+        "obstacle clearance",
+        "noc"
+      ],
+      "synonyms": [
+        "AAI NOC"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "BSNL",
+      "slug": "approvals_karnataka_bsnl",
+      "entity_type": "project_approvals_documents",
+      "org_types": [],
+      "state": "Karnataka",
+      "keywords": [
+        "bsnl",
+        "telecom noc",
+        "telephone noc"
+      ],
+      "synonyms": [
+        "BSNL NOC"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "BESCOM",
+      "slug": "approvals_karnataka_bescom",
+      "entity_type": "project_approvals_documents",
+      "org_types": [],
+      "state": "Karnataka",
+      "keywords": [
+        "bescom",
+        "electricity noc",
+        "power supply noc",
+        "hvt",
+        "lt connection"
+      ],
+      "synonyms": [
+        "BESCOM NOC"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "RERA",
+      "slug": "approvals_karnataka_rera",
+      "entity_type": "project_approvals_documents",
+      "org_types": [],
+      "state": "Karnataka",
+      "keywords": [
+        "rera certificate",
+        "rera registration",
+        "rera number"
+      ],
+      "synonyms": [
+        "RERA Registration Certificate"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Any other Approval",
+      "slug": "approvals_karnataka_any_other_approval",
+      "entity_type": "project_approvals_documents",
+      "org_types": [],
+      "state": "Karnataka",
+      "keywords": [
+        "approval",
+        "permission",
+        "authority approval",
+        "competent authority"
+      ],
+      "synonyms": [
+        "Other Approval"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Passbooks",
+      "slug": "legal_passbooks",
+      "entity_type": "legal_documents",
+      "org_types": [],
+      "state": null,
+      "keywords": [
+        "passbook",
+        "bank passbook",
+        "savings passbook"
+      ],
+      "synonyms": [
+        "Pass Book"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Pahanies",
+      "slug": "legal_pahanies",
+      "entity_type": "legal_documents",
+      "org_types": [],
+      "state": null,
+      "keywords": [
+        "pahani",
+        "pahanies",
+        "rtc",
+        "record of rights",
+        "tenancy and crops"
+      ],
+      "synonyms": [
+        "Pahani/RTC"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Certified EC",
+      "slug": "legal_certified_ec",
+      "entity_type": "legal_documents",
+      "org_types": [],
+      "state": null,
+      "keywords": [
+        "encumbrance certificate",
+        "ec",
+        "mee seva ec",
+        "sub-registrar office"
+      ],
+      "synonyms": [
+        "EC",
+        "Encumbrance"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Title Deeds",
+      "slug": "legal_title_deeds",
+      "entity_type": "legal_documents",
+      "org_types": [],
+      "state": null,
+      "keywords": [
+        "title deed",
+        "mother deed",
+        "conveyance deed",
+        "sale deed",
+        "gift deed",
+        "relinquishment deed",
+        "partition deed",
+        "will"
+      ],
+      "synonyms": [
+        "Title Deed",
+        "Link Deeds"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Any other Link Documents",
+      "slug": "legal_any_other_link_documents",
+      "entity_type": "legal_documents",
+      "org_types": [],
+      "state": null,
+      "keywords": [
+        "link document",
+        "parent document",
+        "previous title document"
+      ],
+      "synonyms": [
+        "Link Docs"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "APF Letters",
+      "slug": "other_apf_letters",
+      "entity_type": "other_project_documents",
+      "org_types": [],
+      "state": null,
+      "keywords": [
+        "apf",
+        "approved project finance",
+        "bank tie-up",
+        "apf letter"
+      ],
+      "synonyms": [
+        "APF Tie-up"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Flat/Villa Cost Sheet & Payment Schedule",
+      "slug": "other_cost_sheet_payment_schedule",
+      "entity_type": "other_project_documents",
+      "org_types": [],
+      "state": null,
+      "keywords": [
+        "cost sheet",
+        "payment schedule",
+        "milestone payment",
+        "installment schedule"
+      ],
+      "synonyms": [
+        "Cost Sheet",
+        "Payment Schedule"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Project Layout",
+      "slug": "other_project_layout",
+      "entity_type": "other_project_documents",
+      "org_types": [],
+      "state": null,
+      "keywords": [
+        "project layout",
+        "layout plan",
+        "site plan",
+        "master plan"
+      ],
+      "synonyms": [
+        "Layout Plan"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Building elevation design",
+      "slug": "other_building_elevation_design",
+      "entity_type": "other_project_documents",
+      "org_types": [],
+      "state": null,
+      "keywords": [
+        "building elevation",
+        "elevation drawings",
+        "facade design"
+      ],
+      "synonyms": [
+        "Elevation"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Structural Certificate",
+      "slug": "other_structural_certificate",
+      "entity_type": "other_project_documents",
+      "org_types": [],
+      "state": null,
+      "keywords": [
+        "structural stability certificate",
+        "structural certificate",
+        "structural engineer certificate"
+      ],
+      "synonyms": [
+        "Structural Stability"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Valuation Reports",
+      "slug": "other_valuation_reports",
+      "entity_type": "other_project_documents",
+      "org_types": [],
+      "state": null,
+      "keywords": [
+        "valuation report",
+        "valuer report",
+        "market value report"
+      ],
+      "synonyms": [
+        "Valuation"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Title Search Reports - Legal Opinion",
+      "slug": "other_title_search_legal_opinion",
+      "entity_type": "other_project_documents",
+      "org_types": [],
+      "state": null,
+      "keywords": [
+        "title search",
+        "legal opinion",
+        "due diligence report"
+      ],
+      "synonyms": [
+        "Title Search/Legal Opinion"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Latest Site Images",
+      "slug": "other_latest_site_images",
+      "entity_type": "other_project_documents",
+      "org_types": [],
+      "state": null,
+      "keywords": [
+        "site photos",
+        "site images",
+        "photographs",
+        "progress photos"
+      ],
+      "synonyms": [
+        "Site Photos"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Google Location (link)",
+      "slug": "other_google_location_link",
+      "entity_type": "other_project_documents",
+      "org_types": [],
+      "state": null,
+      "keywords": [
+        "google maps link",
+        "location link",
+        "maps url"
+      ],
+      "synonyms": [
+        "Google Maps Location"
+      ],
+      "prototype": ""
+    },
+    {
+      "name": "Brochure",
+      "slug": "other_brochure",
+      "entity_type": "other_project_documents",
+      "org_types": [],
+      "state": null,
+      "keywords": [
+        "brochure",
+        "sales brochure",
+        "project brochure",
+        "marketing brochure"
+      ],
+      "synonyms": [
+        "Project Brochure"
+      ],
+      "prototype": ""
+    }
+  ]
+}
